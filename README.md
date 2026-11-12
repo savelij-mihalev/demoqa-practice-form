@@ -35,6 +35,10 @@ cd demoqa-practice-form
 ./gradlew test
 ```
 
+## Результат запуска
+
+![Результат запуска теста](images/tests-passed.png)
+
 ## Автор
 
 [savelij-mihalev](https://github.com/savelij-mihalev)
